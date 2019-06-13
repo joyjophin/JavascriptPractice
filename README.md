@@ -1,2 +1,2 @@
-# JavascriptPracticeCodes
-contains javascript practice codes
+# Javascript Practice
+contains javascript codes to practice
